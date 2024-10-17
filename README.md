@@ -1,3 +1,4 @@
+![logo](https://github.com/iUtkarshtiwari/iUtkarshtiwari/blob/main/ut.gif)
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
 <h3 align="center">A Passionate Full-Stack Developer</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
